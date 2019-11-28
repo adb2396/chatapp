@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Test chat application using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adb2396/chatapp.git"
+  },
+  "author": "akshay bhamare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adb2396/chatapp/issues"
+  },
+  "homepage": "https://github.com/adb2396/chatapp#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.3.0"
+  }
+}
